@@ -70,7 +70,7 @@ ViewModels/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/weather-app.git
+   git clone https://github.com/aloisiodev/weather-app
    ```
 
 2. Abra o projeto no **Xcode 15** ou superior.
@@ -93,12 +93,4 @@ ViewModels/
 - Suporte a localização atual via CoreLocation.
 - Animações avançadas no carregamento de dados.
 
----
-
-## 📄 Licença
-
-Este projeto é de uso pessoal/educacional. Sinta-se livre para utilizar, modificar e compartilhar.
-
----
-
-Feito com ❤️ e muita cafeína.
+Eu fiz esse app para estudo
